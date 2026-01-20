@@ -8,18 +8,18 @@ Our mission is to make public transport reliable, transparent, safe, and accessi
 
 # ✨ Key Features
 
-🛰️ Real-Time Bus Tracking – Live GPS-based bus location updates
-⏳ Estimated Time of Arrival (ETA) – Accurate arrival predictions
-🪑 Bus Occupancy & Seat Availability – AI-assisted estimation
-🧭 Route Discovery – Find best routes and nearby bus stops
-🌐 Multi-Language Support – Inclusive for diverse users
-📶 Offline Route Information – Works even with low connectivity
-💬 Chatbot Assistant – Query routes, ETAs, and help
-🆘 Emergency SOS (Women Safety) – One-tap emergency alert
-🎟️ Digital Bus Passes & Tickets – Paperless commuting
-📊 Admin Dashboard – For transport authorities
-📝 Feedback System – User suggestions & complaints
-🗺️ Trip Planner (Premium) – Smart journey planning
+- Real-Time Bus Tracking – Live GPS-based bus location updates
+- Estimated Time of Arrival (ETA) – Accurate arrival predictions
+- Bus Occupancy & Seat Availability – AI-assisted estimation
+- Route Discovery – Find best routes and nearby bus stops
+- Multi-Language Support – Inclusive for diverse users
+- Offline Route Information – Works even with low connectivity
+- Chatbot Assistant – Query routes, ETAs, and help
+- Emergency SOS (Women Safety) – One-tap emergency alert
+- Digital Bus Passes & Tickets – Paperless commuting
+- Admin Dashboard – For transport authorities
+- Feedback System – User suggestions & complaints
+- Trip Planner (Premium) – Smart journey planning
 
 # 🧩 Unique Selling Proposition (USP)
 
